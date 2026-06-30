@@ -81,3 +81,46 @@ Durante este ejercicio se realizaron las siguientes tareas:
 ## Estado
 
 ✅ Ejemplo 01 Finalizado
+
+# Ejemplo 02
+
+## Objetivos
+
+- Interpretar el archivo `run.sh`.
+- Ejecutar manualmente los comandos Docker.
+- Crear un contenedor MariaDB.
+- Crear un contenedor WordPress.
+- Verificar el funcionamiento de la aplicación.
+
+---
+
+## Desarrollo
+
+Durante este ejemplo se realizaron las siguientes tareas:
+
+- Análisis del archivo `run.sh`.
+- Ejecución manual de los comandos `docker run`.
+- Creación del contenedor de la base de datos MariaDB.
+- Creación del contenedor WordPress.
+- Configuración inicial del sitio.
+- Verificación del panel de administración.
+
+---
+
+## Evidencias
+
+### Instalación de WordPress
+
+![Instalación](capturas/ejem02/01-instalacion-wordpress.png)
+
+---
+
+### Escritorio de WordPress
+
+![WordPress](capturas/ejem02/02-escritorio-wordpress.png)
+
+---
+
+## Estado
+
+✅ Ejemplo 02 Finalizado
