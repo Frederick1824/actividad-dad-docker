@@ -1,4 +1,6 @@
-# Actividad DAD - Docker 2026 🐳
+# 🐳 Actividad DAD - Docker 2026
+
+Implementación de los ejemplos propuestos para la materia Desarrollo y Administración (DAD), utilizando Docker Desktop, Visual Studio Code y PHP 8.2.
 
 ## Alumno
 
@@ -11,6 +13,12 @@
 ## Objetivo
 
 Implementar los ejemplos propuestos en el repositorio de José Luis González para comprender el funcionamiento de Docker, la creación de imágenes, la ejecución de contenedores y la administración básica de los mismos.
+
+## Repositorio base
+
+Este trabajo se desarrolló tomando como base el repositorio público de José Luis González:
+
+https://github.com/joseluisgs/docker-tutorial
 
 ---
 
