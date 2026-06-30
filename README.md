@@ -170,3 +170,17 @@ Durante este ejemplo se realizaron las siguientes tareas:
 ## Estado
 
 ✅ Ejemplo 03 Finalizado
+
+## Evidencias
+
+### Docker Compose
+
+![Docker Compose](capturas/ejem07/01-docker-compose.png)
+
+### phpMyAdmin
+
+![phpMyAdmin](capturas/ejem07/02-phpmyadmin.png)
+
+## Estado
+
+✅ Ejemplo 07 Finalizado
