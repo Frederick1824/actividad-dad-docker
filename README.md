@@ -60,10 +60,15 @@ Durante este ejercicio se realizaron las siguientes tareas:
 
 ## Evidencias
 
-### Construcción de la imagen
+### Creación de la red y despliegue de contenedores
 
-![Build](capturas/ejem01/01-docker-build.png)
+![Terminal](capturas/ejem03/01-terminal-vscode.png)
 
+---
+
+### Escritorio de WordPress
+
+![WordPress](capturas/ejem03/02-escritorio-wordpress.png)
 ---
 
 ### Edición desde VS Code utilizando Nano
