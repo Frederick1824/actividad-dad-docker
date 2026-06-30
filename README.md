@@ -129,3 +129,44 @@ Durante este ejemplo se realizaron las siguientes tareas:
 ## Estado
 
 ✅ Ejemplo 02 Finalizado
+
+# Ejemplo 03
+
+## Objetivos
+
+- Crear una red Docker personalizada.
+- Comunicar contenedores mediante una red Docker.
+- Desplegar WordPress utilizando MariaDB.
+- Verificar el funcionamiento de la aplicación.
+
+---
+
+## Desarrollo
+
+Durante este ejemplo se realizaron las siguientes tareas:
+
+- Creación de la red Docker `mi-network`.
+- Ejecución del contenedor MariaDB.
+- Ejecución del contenedor WordPress.
+- Comunicación entre contenedores mediante una red personalizada.
+- Verificación del panel de administración.
+
+---
+
+## Evidencias
+
+### Creación de la red Docker
+
+![Red Docker](capturas/ejem03/01-red-docker.png)
+
+---
+
+### Escritorio de WordPress
+
+![WordPress](capturas/ejem03/02-escritorio-wordpress.png)
+
+---
+
+## Estado
+
+✅ Ejemplo 03 Finalizado
