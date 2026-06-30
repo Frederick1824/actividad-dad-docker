@@ -217,6 +217,53 @@ Durante este ejemplo se realizaron las siguientes tareas:
 
 ✅ Ejemplo 07 Finalizado
 
+# Ejemplo 09
+
+## Objetivos
+
+- Implementar un Reverse Proxy mediante Docker Compose.
+- Desplegar múltiples sitios web.
+- Verificar el enrutamiento hacia distintos servicios.
+
+---
+
+## Tecnologías utilizadas
+
+- Docker Compose
+- Nginx
+- Apache
+- Reverse Proxy
+
+---
+
+## Desarrollo
+
+Durante este ejemplo se realizaron las siguientes tareas:
+
+- Configuración del archivo docker-compose.yml.
+- Creación del servicio Reverse Proxy.
+- Despliegue de dos sitios web independientes.
+- Verificación del acceso mediante los puertos 8080 y 8081.
+
+---
+
+## Evidencias
+
+### Sitio 1
+
+![Site1](docker-tutorial/capturas/ejem09/01-site1.png)
+
+---
+
+### Sitio 2
+
+![Site2](docker-tutorial/capturas/ejem09/02-site2.png)
+
+---
+
+## Estado
+
+✅ Ejemplo 09 Finalizado
 ---
 
 # Conclusión
